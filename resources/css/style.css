@@ -1,0 +1,45 @@
+html {
+    box-sizing: border-box;
+    font-family: 'Roboto Mono', monospace;
+}
+
+body {
+    margin: 0;
+    background-color: #FFF7EB;
+}
+ /*Header section*/
+.header-logo {
+    background-color: #FFF7EB;
+    margin-top: 0;
+    width: 100%;
+    color: darkgreen;
+}
+
+.header-logo img{
+    height: 60px;
+    width: 60px;
+    margin-top: 5px;
+    padding: 0;
+}
+
+/*Nav Container*/
+.nav-container {
+    background-color: #D4EFDF;
+}
+
+.nav-container a {
+    color: darkgreen;
+    text-decoration: none;
+    padding: 8%;
+}
+
+.nav-container ul {
+    list-style-type: none;
+    text-align: right;
+   
+    padding-top: 0;
+}
+
+.nav-container li {
+   display: inline;
+}
