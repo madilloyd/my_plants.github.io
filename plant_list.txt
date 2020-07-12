@@ -1,0 +1,24 @@
+plant_list
+
+indoor
+
+freddy plant (calathea louisae)
+rubber plant (ficus elastica Burgundy)
+croton (codiaeum variegatum)
+nerve plant (Fittonia albivenis)
+peace lily (spathiphyllum wallisii)
+zanzibar gem (zamioculcas zamiifolia)
+money tree (guiana chestnut)
+pia tree ivy (fatshedera lizei pia)
+green (philodendron hederaceum)
+brasil (philodendron scandens / philodendron hederaceum ‘Brasil’)
+raindrop plant (peperomia polybotrya)
+
+outdoor
+yucca
+golden pothos (epipremnum aureum)
+
+succulents
+aloe
+jade money tree (crassula ovata)
+calausen (sedum clavatum)
